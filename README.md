@@ -16,13 +16,14 @@ lalu setelah kita dapet kode ssh nya, kita langsung hubungin ke github kita, den
 
 ![Screenshot from 2022-11-20 23-40-05](https://user-images.githubusercontent.com/118157585/202915171-0ab3ee6d-318e-4759-b802-6a6711da043f.png)
 
-![Screenshot from 2022-11-19 10-30-39](https://user-images.githubusercontent.com/118157585/202915155-d15a67cc-152f-45c2-a62c-cfcb5b7c1b8e.png)
+kita add github kita di local, setalah berhasil, lalu push commit kita ke github, bisa loihat gambar dibawah.
+
 ![Screenshot from 2022-11-19 10-30-16](https://user-images.githubusercontent.com/118157585/202915160-1da1fa05-f722-4d63-b5a5-f67a6704b1c4.png)
-![Screenshot from 2022-11-20 23-10-24](https://user-images.githubusercontent.com/118157585/202915164-2a084c0f-610c-454b-8363-4950f5145373.png)
-![Screenshot from 2022-11-20 23-10-44](https://user-images.githubusercontent.com/118157585/202915165-a1b61026-b33c-42fc-b512-7af483a0befc.png)
-![Screenshot from 2022-11-20 23-13-36](https://user-images.githubusercontent.com/118157585/202915166-fb123cef-8131-414c-845f-c52ae474eabf.png)
-![Screenshot from 2022-11-20 23-38-47](https://user-images.githubusercontent.com/118157585/202915169-8b3f739d-4ae3-4b0b-b9c5-d8bc26a2f3fb.png)
-![Screenshot from 2022-11-20 23-41-18](https://user-images.githubusercontent.com/118157585/202915172-49d1b9c4-be46-4c47-973e-9fd81a04f95e.png)
-![Screenshot from 2022-11-20 23-45-43](https://user-images.githubusercontent.com/118157585/202915174-9d7f7cea-2989-4c22-8ecc-67cc0f19422e.png)
-![Screenshot from 2022-11-20 23-45-56](https://user-images.githubusercontent.com/118157585/202915176-01c03fc4-fdfc-44de-bd62-e822cca42d36.png)
-![Screenshot from 2022-11-20 23-46-12](https://user-images.githubusercontent.com/118157585/202915178-d8f4a5b8-1d2d-4806-99a4-7b182dd39ac4.png)
+
+nah ini tampilan di github yg sudah kita push dari local, [fikri]
+
+![Screenshot from 2022-11-19 10-30-39](https://user-images.githubusercontent.com/118157585/202915155-d15a67cc-152f-45c2-a62c-cfcb5b7c1b8e.png)
+4. untuk membuat  branch baru, kalian bisa mengetikan perintah git branch nama_branch.
+
+lalu cara lihat branch kita tinggal ketik perintah git branch, lalu muncul nama branch kita.
+![Screenshot from 2022-11-21 09-05-39](https://user-images.githubusercontent.com/118157585/202945380-e3dbc2e1-379d-4962-a71e-c5c80960c16c.png)
