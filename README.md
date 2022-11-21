@@ -1,6 +1,7 @@
 # Dumbways_Version_Control
 
 1. Git adalah sebuah tools untuk para developers dalam mengembangkan suatu aplikasi atau produk. dimana git ini bisa digunakan untuk menyimpan suatu file, folder, atau lainnya dan para developers bisa bekerja sama untuk mengembangkan suatu aplikasi atau produk dengan menggunakan git. karena di git ini bisa melihat siapa saja yang telah melakukan perubahan dan di file atau folder mana saja yang mengalami perubahan.
+======================================================================================================================================
 
 2. pertama, kita masuk ke directori /etc/netplan, kita create file, lalu kita edit menggunakan editor nano, dengan perintah dibawah
 
@@ -10,10 +11,18 @@ nah lalu, kita bikin ip sesuai yang kita mau seperti gambar dibawah
 
 ![Screenshot from 2022-11-21 10-39-33](https://user-images.githubusercontent.com/118157585/202961791-1d0c4764-c545-49da-96b2-ccde9e29abba.png)
 
-![Screenshot from 2022-11-21 10-35-53](https://user-images.githubusercontent.com/118157585/202961924-494f1083-9ef3-4f43-aeab-8d492ab3c543.png)
+lalu kita restart seperti gambar dibawah.
+
+![Screenshot from 2022-11-21 10-56-34](https://user-images.githubusercontent.com/118157585/202962466-a5190637-2191-4884-8a42-aef323252cef.png)
+
+lalu kita copy public key kita ke server seperti gambar dibawah.
+
 ![Screenshot from 2022-11-21 10-34-45](https://user-images.githubusercontent.com/118157585/202961936-99fd5acc-02f2-43e9-8041-bcb365618460.png)
+
+lalu kita coba pake multipass untuk tes ssh nya apakah udh terhubung atau belum, dengan masukan ssh fikri@192.168.100.252 di multipass, laluuuuu berhasil deh kita masukkkk.
+
 ![Screenshot from 2022-11-21 10-36-17](https://user-images.githubusercontent.com/118157585/202961782-f1a1b9fa-0694-4e22-806d-16a7fc91b8f4.png)
-![Screenshot from 2022-11-21 10-39-33](https://user-images.githubusercontent.com/118157585/202961791-1d0c4764-c545-49da-96b2-ccde9e29abba.png)
+======================================================================================================================================
 
 3. dapatkan ssh key nya dahulu, perintahnya seperti gambar dibawah
 
@@ -34,7 +43,20 @@ kita add github kita di local, setalah berhasil, lalu push commit kita ke github
 nah ini tampilan di github yg sudah kita push dari local, [fikri]
 
 ![Screenshot from 2022-11-19 10-30-39](https://user-images.githubusercontent.com/118157585/202915155-d15a67cc-152f-45c2-a62c-cfcb5b7c1b8e.png)
+======================================================================================================================================
+
 4. untuk membuat  branch baru, kalian bisa mengetikan perintah git branch nama_branch.
 
 lalu cara lihat branch kita tinggal ketik perintah git branch, lalu muncul nama branch kita.
 ![Screenshot from 2022-11-21 09-05-39](https://user-images.githubusercontent.com/118157585/202945380-e3dbc2e1-379d-4962-a71e-c5c80960c16c.png)
+
+===================================================================================================================
+Challenge :
+GIT FETCH
+Perintah ini digunakan untuk menampilkan semua object dari remote repository yang tidak berada di direktori kerja lokal
+
+GIT SHOW
+Untuk menampilkan informasi tentang object pada git
+
+GIT LOG
+Dengan menjalankan peritah ini akan menampilkan daftar commits yang ada di branch beserta detail-nya
