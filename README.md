@@ -2,7 +2,9 @@
 
 1. Git adalah sebuah tools untuk para developers dalam mengembangkan suatu aplikasi atau produk. dimana git ini bisa digunakan untuk menyimpan suatu file, folder, atau lainnya dan para developers bisa bekerja sama untuk mengembangkan suatu aplikasi atau produk dengan menggunakan git. karena di git ini bisa melihat siapa saja yang telah melakukan perubahan dan di file atau folder mana saja yang mengalami perubahan.
 
-2. 
+2. ![Screenshot from 2022-11-21 10-36-17](https://user-images.githubusercontent.com/118157585/202961782-f1a1b9fa-0694-4e22-806d-16a7fc91b8f4.png)
+![Screenshot from 2022-11-21 10-39-33](https://user-images.githubusercontent.com/118157585/202961791-1d0c4764-c545-49da-96b2-ccde9e29abba.png)
+![Screenshot from 2022-11-21 10-44-11](https://user-images.githubusercontent.com/118157585/202961798-afaceeb0-0a71-4571-aa9d-cf98bac78de2.png)
 
 3. dapatkan ssh key nya dahulu, perintahnya seperti gambar dibawah
 
